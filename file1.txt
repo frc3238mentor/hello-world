@@ -2,5 +2,6 @@ This is the 1st file added to the project.
 This is the 2nd line in the 1st file.
 This line was added directly at the Github site.
 This line was added on a workstation after the line above was added on the Github site.
+Another line added at Github site.
 This line also added on workstation but after a line was added on Github site without syncing on workstation, so
 at the time this line was added the site has an additional line that doesn't show on workstation.
